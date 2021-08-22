@@ -1,10 +1,10 @@
 # Power-Grid-Reliability-RUSIS
 Research for Undergraduates Summer Institute of Statistics (RUSIS) project to model for the reliability of an arbitrary power grid.
 
-The tech report is the file: RUSIS_Power_Grid_Reliability.pdf
-The recursive method is the R code: RecursiveModel.R
-The moment generating function method is the R code: MGFModelV4.R
-The polynomial method (the most optimal method) is the R code: PolynomialModel.R
+The tech report is the file: RUSIS_Power_Grid_Reliability.pdf \n
+The recursive method is the R code: RecursiveModel.R \n
+The moment generating function method is the R code: MGFModelV4.R \n
+The polynomial method (the most optimal method) is the R code: PolynomialModel.R \n
 
 Associated expirements run can be found in: TimePolynomialPlotting.R
 
